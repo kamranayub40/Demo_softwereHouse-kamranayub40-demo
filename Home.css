@@ -1,0 +1,105 @@
+.MainHomeDiv{
+    display: flex;
+    flex-direction: row;
+}
+.Homediv{
+   margin-top: 20px;
+    margin-left: 20px; 
+     
+}
+.MainHomeDiv img{
+    width: 15%;
+    height: 10%;
+    margin-top: 20px;
+    margin-left: 20px; 
+   
+}
+.MainHomeDiv .dic{
+    margin-top: 40px;
+    margin-bottom: 3;
+    color: grey;
+    margin-left: 10px;
+    font-size: 20px;
+
+
+
+   
+   
+}
+.MainHomeDiv input{
+    margin-top: 37px;
+    width: 400px;
+    height: 40px;
+    margin-left: 20px;
+    background-color: rgb(237,237,237);
+    border-radius: 9px;
+    border-width: 0ch;
+   
+   
+}
+.MainHomeDiv .icon{
+font-size: 40px;
+margin-top: 40px;
+margin-left: 50px;
+color:grey
+   
+   
+}
+.MainHomeDiv .uploadButton{
+    font-size: 17px;
+    margin-top: 40px;
+    margin-left: 30px;
+    width: 110px;
+    height: 40px;
+    background-color:darkblue;
+    color: white;
+    border-radius: 3px;
+    border-width: 0px;
+
+       
+       
+    }
+    .MainHomeDiv .CONNECT{
+        font-size: 17px;
+        margin-top: 40px;
+        margin-left: 30px;
+        width: 190px;
+        height: 40px;
+        background-color:rgb(189, 182, 182);
+        color: white;
+        border-radius: 3px;
+        border-width: 0px;
+           
+           
+        }
+.MainHomeDiv .work{
+    margin-top: 40px;
+    margin-left: 30px;
+    color: grey;
+    font-size: 20px;
+   
+   
+}
+.dicover{
+    margin-right: 70%;
+    margin-top: 20px;
+}
+.works{
+    margin-top: 20px;
+    margin-right: 10%;
+
+}
+.each-slide > div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    height: 350px;
+  }
+  
+  .each-slide span {
+    padding: 20px;
+    font-size: 20px;
+    background: #efefef;
+    text-align: center;
+  }
